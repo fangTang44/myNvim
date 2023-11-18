@@ -1,2 +1,2 @@
 # myNvim
-我的nvim配置
+我的LazyNvim配置
